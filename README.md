@@ -1,4 +1,6 @@
 
 # Titanic Survive Prediction
 
-Hello World
+Titanic - Machine Learning from Disaster Competition from Kaggle.com
+
+https://www.kaggle.com/competitions/titanic
